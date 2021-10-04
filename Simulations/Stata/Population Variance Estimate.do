@@ -1,8 +1,6 @@
 clear
 set seed 1000
 
-*WARNING: THIS IS VERY BAD HARDCODED CODE
-
 * The point of the program is to test the result in my business
 * statistics textbook that population variance can be estimated
 * as variance < (n-1)(sample variance)/(chi squared critical value with n - 1 degrees of freedom at a certain 1 - alpha/2)
